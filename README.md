@@ -21,6 +21,12 @@ By the end of my degree (expected **March 2026**), I aim to master both **Python
 
 ---
 
+## 🏎️ Engineering Experience
+I was part of **UniNaCorse**, the official **Formula SAE racing team** of the University of Naples Federico II, where engineering students design, build, and race a single-seater prototype.  
+This experience strengthened my **hands-on engineering mindset** — I’m not only someone who codes and optimizes systems, but also someone who understands how machines behave in real conditions and isn’t afraid to get my hands dirty to solve problems.
+
+---
+
 ## 🌍 Professional Aspirations
 I’m deeply passionate about **large-scale energy systems**, their **construction, operation, and optimization**.  
 My goal is to contribute to the **energy transition and digitalization** process by joining leading global companies such as **Amazon, Meta, ENI, Enel**, or any organization that values advanced **energy management and optimization expertise**.
