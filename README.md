@@ -33,7 +33,7 @@ My goal is to contribute to the **energy transition and digitalization** process
 ---
 
 ## 📫 Connect
-- 🌐 [LinkedIn]((https://www.linkedin.com/in/ernesto-ceppaluni/))  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/ernesto-ceppaluni/)  
 - 🧠 [GitHub Projects](https://github.com/OptiEnergyAI?tab=repositories)  
 - ✉️ Email: ceppalunie@gmail.com  
 
